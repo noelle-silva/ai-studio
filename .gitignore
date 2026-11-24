@@ -4,7 +4,6 @@ src-tauri/binaries/ai-studio-backend-*
 
 # ---------- 依赖 ----------
 node_modules/
-.pnpm-store/
 
 # ---------- 前端构建产物 ----------
 dist/
